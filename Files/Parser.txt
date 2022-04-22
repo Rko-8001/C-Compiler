@@ -1,0 +1,91 @@
+NAME: 		    YADWINDER SINGH
+ENTRY NO: 		2020CSB1143
+*************************************
+	WELCOME TO MY PARSER.
+*************************************
+
+
+
+VARIABLE DECLARATION: TYPE:int ID:a
+
+FUNCTION DECLARATION: 
+TYPE:int id:add
+ARGUMENT: TYPE:int ID:a
+ARGUMENT: TYPE:int ID:b
+
+FUNCTION DECLARATION: 
+TYPE:int id:add
+ARGUMENT: none
+
+FUNCTION DEFINATION:
+TYPE:int id:main
+ARGUMENT: TYPE:int ID:c
+ARGUMENT: TYPE:int ID:d
+
+FUNCTION BODY:
+
+VARIABLE DECLARATION: TYPE:int ID:a
+
+VARIABLE DECLARATION: TYPE:char * ID:b
+
+IF-ELSE STATEMENT:
+
+RELATIONAL OPERATION:
+
+BOOL OP: <=	id: a   const-2 
+IF BODY:
+VARIABLE ASSIGN:
+TYPE: intid: b ASSIGN: = 
+id: c 
+if stmt ends.
+
+ELSE BODY:
+VARIABLE ASSIGN:
+TYPE: intid: c ASSIGN: = 
+id: d 
+RETURN STATEMENT
+ returning nothing
+
+
+else stmt ends.
+
+WHILE STATEMENT:
+
+RELATIONAL OPERATION:
+
+BOOL OP: >	id: s   const-2 
+WHILE BODY:
+
+VARIABLE DECLARATION: TYPE:int ID:a
+
+RETURN STATEMENT
+id: a 
+
+while stmt ends.
+
+FUNCTION CALLING:
+id:add
+ARGUMENT: id: a 
+
+Function calling ends.
+
+FUNCTION CALLING:
+id:add
+ARGUMENT: id: x id: y 
+
+Function calling ends.
+
+FUNCTION CALLING:
+id:add
+ARGUMENT: const-2 const-3  op:+ const-4 
+
+Function calling ends.
+
+RETURN STATEMENT
+ returning nothing
+VARIABLE ASSIGN:
+TYPE: intid: b ASSIGN: = 
+const-4  op:+ id: c 
+RETURN STATEMENT
+ returning nothing
+FUNCTION ENDS

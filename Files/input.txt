@@ -1,0 +1,44 @@
+/*
+        NAME:       YADWINDER SINGH
+        ENTRY NO.:  2020CSB1143
+
+        TOTAL FILES: 6
+                cucu.y
+                cucu.l 
+                Sample1.cu 
+                Sample2.cu 
+                README.txt
+                a.sh 
+*/
+int a;
+int add(int a, int b);
+int add();
+int main( int c, int d)
+{
+    int a;
+    char *b;
+
+    if(a <=2)
+    {
+        int b = c;
+    }
+    else
+    {
+        int c = d;
+        return ;
+    }
+
+    while(s>2)
+    {
+        int a; 
+        return a;
+    }
+
+    add(a);
+    add(x,y);
+    add(2,3+4);
+    return; 
+
+    int b = 4+c; 
+    return; 
+}
