@@ -1,8 +1,8 @@
 Hi Everyone, 
-This time, I worked on a Syntax Analyser. What is does is: You input the code in input.txt in files folder then it
+This time, I worked on a Lexical Analyser. What is does is: You input the code in input.txt in files folder then it
 will tokenized it and will map the lexems acc to their tokens and ouptut it in Lexer.txt in Files folder.
 
-Moreover, I worked on Semantics Analyser. it will parse it and sematics analysis is performed and output it in Parser.txt in  Files folder.
+Moreover, I worked on Syntax Analyser. it will parse it and syntactic analysis is performed and output it in Parser.txt in  Files folder.
 
 HOW TO RUN:
             Enter these commands in terminal.
